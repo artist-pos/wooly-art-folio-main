@@ -16,7 +16,7 @@ const posters = [
   {
     id: 2,
     title: "The Fresh Food People... break their bodies",
-    caption: "Tracking the human cost of understaffing; examining claims of buried injury reports and long-term physical compromise.",
+      caption: "Tracking the human cost of understaffing; examining claims of buried injury reports and long-term physical compromise. **65k+ on X.com.**",
     imageAlt: "Poster showing the human cost of understaffing",
     image: poster2
   },
