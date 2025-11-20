@@ -16,7 +16,7 @@ const posters = [
   {
     id: 2,
     title: "The Fresh Food People... break their bodies",
-      caption: "Tracking the human cost of understaffing; examining claims of buried injury reports and long-term physical compromise. **Surpassed 100,000 views across platforms**",
+      caption: "Tracking the human cost of understaffing; examining claims of buried injury reports and long-term physical compromise. **Surpassed 95,000 views across platforms**",
     imageAlt: "Poster showing the human cost of understaffing",
     image: poster2
   },
@@ -37,7 +37,7 @@ const posters = [
   {
     id: 5,
     title: "We Can Help With That... forging your documents",
-    caption: "Detailing the most serious claims of alleged document fraud, including pre-filled health and safety forms designed to shield the company from liability.",
+      caption: "Detailing the most serious claims of alleged document fraud, including pre-filled health and safety forms designed to shield the company from liability. **Surpassed 134,000 views across platforms**",
     imageAlt: "Poster detailing alleged document fraud",
     image: poster5
   }
